@@ -1,0 +1,141 @@
+.nav-link{
+    color: #607274;
+}
+
+.mb-4 {
+  margin-bottom: 0.5rem!important;
+}
+
+.container
+{
+  max-width: 100vw;
+}
+.container1
+{
+    display:flex;
+}
+
+.item1
+{
+ background-color: #F1EAFF;
+ flex: 3;
+ border-right: 5px solid black;
+ height:100vh;
+}
+
+.item2
+{
+  background-color: #FFEBD8;
+  flex:1;
+  height:100vh;  
+}
+
+#carouselExampleCaptions
+{
+  margin-top: 5%;
+
+}
+
+.carousel-item > img
+{
+  height: 500px;
+}
+
+.carousel-caption
+{
+  right:5%;
+  bottom:0.5rem;
+  padding-bottom: 0;
+  text-align: end;
+  color:black
+}
+
+.formContainer
+{
+  margin-top: 7%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width:50%;
+}
+
+#postfield
+{
+  height:400px;
+  padding: 0;
+}
+
+.form-control
+{
+  margin-bottom: 20px;
+}
+
+.item1inner
+{
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  text-align: center;
+}
+
+.item1inner > *
+{
+  margin-bottom: 2rem;
+  font-size: 20px;
+}
+
+.item1inner > h5
+{
+  font-size: 15px;
+  font-family: 'Titillium Web';
+  text-align: right;
+}
+
+.item1inner > h2
+{
+  font-family: 'Rubik Lines';
+  font-size: 4rem;
+}
+
+.item2 > h5
+{
+  font-family: 'Mukta';
+  margin-top: 5%;
+  margin-bottom: 5%;
+  font-size: 2rem;
+  text-align: center;
+  font-weight: 400;
+
+}
+.item2 > ul 
+{
+  margin-left: 12%;
+
+}
+.item2 li
+{
+  font-family: 'Titillium Web';
+  font-size: 1.2rem;
+
+}
+
+.item2 li:hover
+{
+  text-decoration: underline;
+  color:#D0A2F7;
+
+}
+
+
+.item1 > h5
+{
+  font-family: 'Mukta';
+  margin-top: 5%;
+  margin-bottom: 5%;
+  font-size: 3rem;
+  text-align: center;
+  font-weight: 700;
+  text-decoration: underline;
+  color:#5C3C0D
+}
